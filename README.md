@@ -1,6 +1,6 @@
 # Sistema de Colaboradores
 
-Este repositório contém a implementação de um sistema de gerenciamento de colaboradores desenvolvido como parte de um trabalho acadêmico para a Universidade Federal do Brasil (UFBRA). O projeto foi desenvolvido com fins educacionais, aplicando conceitos de **Programação Orientada a Objetos (POO)**.
+Este repositório contém a implementação de um sistema de gerenciamento de colaboradores desenvolvido como parte de um trabalho acadêmico para a Centro Universitário (UFBRA). O projeto foi desenvolvido com fins educacionais, aplicando conceitos de **Programação Orientada a Objetos (POO)**.
 
 ## Tecnologias Utilizadas
 
